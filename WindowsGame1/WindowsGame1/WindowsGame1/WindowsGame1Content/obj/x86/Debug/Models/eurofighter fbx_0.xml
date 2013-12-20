@@ -3,7 +3,7 @@
   <Asset Type="Graphics:NodeContent">
     <Name>RootNode</Name>
     <Identity>
-      <SourceFilename>D:\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1Content\Models\eurofighter fbx.fbx</SourceFilename>
+      <SourceFilename>C:\Users\Administrator\Documents\GitHub\GP3\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1Content\Models\eurofighter fbx.fbx</SourceFilename>
       <SourceTool>FbxImporter</SourceTool>
     </Identity>
     <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
@@ -85,7 +85,7 @@
     <Resource ID="#Resource1" Type="Graphics:BasicMaterialContent">
       <Name>nose</Name>
       <Identity>
-        <SourceFilename>D:\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1Content\Models\eurofighter fbx.fbx</SourceFilename>
+        <SourceFilename>C:\Users\Administrator\Documents\GitHub\GP3\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1Content\Models\eurofighter fbx.fbx</SourceFilename>
         <SourceTool>FbxImporter</SourceTool>
       </Identity>
       <OpaqueData>
@@ -98,7 +98,7 @@
     <Resource ID="#Resource2" Type="Graphics:BasicMaterialContent">
       <Name>cockpit</Name>
       <Identity>
-        <SourceFilename>D:\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1Content\Models\eurofighter fbx.fbx</SourceFilename>
+        <SourceFilename>C:\Users\Administrator\Documents\GitHub\GP3\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1Content\Models\eurofighter fbx.fbx</SourceFilename>
         <SourceTool>FbxImporter</SourceTool>
       </Identity>
       <OpaqueData>
@@ -111,7 +111,7 @@
     <Resource ID="#Resource3" Type="Graphics:BasicMaterialContent">
       <Name>Material</Name>
       <Identity>
-        <SourceFilename>D:\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1Content\Models\eurofighter fbx.fbx</SourceFilename>
+        <SourceFilename>C:\Users\Administrator\Documents\GitHub\GP3\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1Content\Models\eurofighter fbx.fbx</SourceFilename>
         <SourceTool>FbxImporter</SourceTool>
       </Identity>
       <OpaqueData>

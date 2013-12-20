@@ -3,7 +3,7 @@
   <Asset Type="Graphics:NodeContent">
     <Name>RootNode</Name>
     <Identity>
-      <SourceFilename>D:\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1Content\Models\SpaceInvader.FBX</SourceFilename>
+      <SourceFilename>C:\Users\Administrator\Documents\GitHub\GP3\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1Content\Models\SpaceInvader.FBX</SourceFilename>
       <SourceTool>FbxImporter</SourceTool>
     </Identity>
     <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
@@ -980,7 +980,7 @@
     <Resource ID="#Resource1" Type="Graphics:BasicMaterialContent">
       <Name>02 - Default</Name>
       <Identity>
-        <SourceFilename>D:\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1Content\Models\SpaceInvader.FBX</SourceFilename>
+        <SourceFilename>C:\Users\Administrator\Documents\GitHub\GP3\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1Content\Models\SpaceInvader.FBX</SourceFilename>
         <SourceTool>FbxImporter</SourceTool>
       </Identity>
       <OpaqueData>

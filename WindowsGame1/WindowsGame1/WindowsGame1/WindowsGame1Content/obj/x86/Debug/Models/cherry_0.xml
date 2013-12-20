@@ -3,7 +3,7 @@
   <Asset Type="Graphics:NodeContent">
     <Name>RootNode</Name>
     <Identity>
-      <SourceFilename>D:\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1Content\Models\cherry.FBX</SourceFilename>
+      <SourceFilename>C:\Users\Administrator\Documents\GitHub\GP3\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1Content\Models\cherry.FBX</SourceFilename>
       <SourceTool>FbxImporter</SourceTool>
     </Identity>
     <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
@@ -77,7 +77,7 @@
     <Resource ID="#Resource1" Type="Graphics:BasicMaterialContent">
       <Name>stem</Name>
       <Identity>
-        <SourceFilename>D:\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1Content\Models\cherry.FBX</SourceFilename>
+        <SourceFilename>C:\Users\Administrator\Documents\GitHub\GP3\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1Content\Models\cherry.FBX</SourceFilename>
         <SourceTool>FbxImporter</SourceTool>
       </Identity>
       <OpaqueData>
@@ -91,7 +91,7 @@
     <Resource ID="#Resource2" Type="Graphics:BasicMaterialContent">
       <Name>cherry</Name>
       <Identity>
-        <SourceFilename>D:\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1Content\Models\cherry.FBX</SourceFilename>
+        <SourceFilename>C:\Users\Administrator\Documents\GitHub\GP3\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1Content\Models\cherry.FBX</SourceFilename>
         <SourceTool>FbxImporter</SourceTool>
       </Identity>
       <OpaqueData>

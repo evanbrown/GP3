@@ -200,3 +200,62 @@ D:\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Aud
 D:\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Audio\explosion.xnb
 D:\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Audio\gravity.xnb
 D:\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Audio\gravity.wma
+C:\Users\Administrator\Documents\GitHub\GP3\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Audio\Bluebell.xnb
+C:\Users\Administrator\Documents\GitHub\GP3\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Audio\DoctorWhotheme11.xnb
+C:\Users\Administrator\Documents\GitHub\GP3\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Audio\tardis.xnb
+C:\Users\Administrator\Documents\GitHub\GP3\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Audio\gravity.xnb
+C:\Users\Administrator\Documents\GitHub\GP3\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Audio\engine_2.xnb
+C:\Users\Administrator\Documents\GitHub\GP3\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Audio\explosion2.xnb
+C:\Users\Administrator\Documents\GitHub\GP3\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Audio\shot007.xnb
+C:\Users\Administrator\Documents\GitHub\GP3\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Audio\tardisEdit.xnb
+C:\Users\Administrator\Documents\GitHub\GP3\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Audio\who10Edit.xnb
+C:\Users\Administrator\Documents\GitHub\GP3\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Audio\health.xnb
+C:\Users\Administrator\Documents\GitHub\GP3\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Audio\laser.xnb
+C:\Users\Administrator\Documents\GitHub\GP3\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Audio\explosion.xnb
+C:\Users\Administrator\Documents\GitHub\GP3\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Models\LaserMap.xnb
+C:\Users\Administrator\Documents\GitHub\GP3\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Models\LaserMap0.xnb
+C:\Users\Administrator\Documents\GitHub\GP3\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Models\TardisMap.xnb
+C:\Users\Administrator\Documents\GitHub\GP3\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Models\TardisMapR.xnb
+C:\Users\Administrator\Documents\GitHub\GP3\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Texture\spaceBackground.xnb
+C:\Users\Administrator\Documents\GitHub\GP3\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Texture\Start.xnb
+C:\Users\Administrator\Documents\GitHub\GP3\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Texture\End.xnb
+C:\Users\Administrator\Documents\GitHub\GP3\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Models\tardis.xnb
+C:\Users\Administrator\Documents\GitHub\GP3\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Models\dalek.xnb
+C:\Users\Administrator\Documents\GitHub\GP3\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Fonts\DrWho.xnb
+C:\Users\Administrator\Documents\GitHub\GP3\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Models\laser.xnb
+C:\Users\Administrator\Documents\GitHub\GP3\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Models\TardisR.xnb
+C:\Users\Administrator\Documents\GitHub\GP3\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Models\starship.xnb
+C:\Users\Administrator\Documents\GitHub\GP3\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Models\Space_Invader.xnb
+C:\Users\Administrator\Documents\GitHub\GP3\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Models\SpaceInvader.xnb
+C:\Users\Administrator\Documents\GitHub\GP3\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Models\F-15C_Eagle.xnb
+C:\Users\Administrator\Documents\GitHub\GP3\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Models\eurofighter fbx.xnb
+C:\Users\Administrator\Documents\GitHub\GP3\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Models\cherry.xnb
+C:\Users\Administrator\Documents\GitHub\GP3\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Models\Missile.xnb
+C:\Users\Administrator\Documents\GitHub\GP3\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Models\Tardis_0.xnb
+C:\Users\Administrator\Documents\GitHub\GP3\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Models\LaserMap_0.xnb
+C:\Users\Administrator\Documents\GitHub\GP3\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Models\TardisMapR_0.xnb
+C:\Users\Administrator\Documents\GitHub\GP3\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\FBX\6D5031A2\F-15C_Eagle.fbm\Body 4_0.xnb
+C:\Users\Administrator\Documents\GitHub\GP3\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\FBX\6D5031A2\F-15C_Eagle.fbm\Body 6_0.xnb
+C:\Users\Administrator\Documents\GitHub\GP3\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\FBX\6D5031A2\F-15C_Eagle.fbm\Parts 1_0.xnb
+C:\Users\Administrator\Documents\GitHub\GP3\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\FBX\6D5031A2\F-15C_Eagle.fbm\Glass_0.xnb
+C:\Users\Administrator\Documents\GitHub\GP3\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\FBX\6D5031A2\F-15C_Eagle.fbm\weapons_0.xnb
+C:\Users\Administrator\Documents\GitHub\GP3\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\FBX\6D5031A2\F-15C_Eagle.fbm\pilot_0.xnb
+C:\Users\Administrator\Documents\GitHub\GP3\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\FBX\6D5031A2\F-15C_Eagle.fbm\panel1_0.xnb
+C:\Users\Administrator\Documents\GitHub\GP3\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\FBX\6D5031A2\F-15C_Eagle.fbm\intpanel_0.xnb
+C:\Users\Administrator\Documents\GitHub\GP3\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\FBX\6D5031A2\F-15C_Eagle.fbm\panel2_0.xnb
+C:\Users\Administrator\Documents\GitHub\GP3\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\FBX\6D5031A2\F-15C_Eagle.fbm\panel_0.xnb
+C:\Users\Administrator\Documents\GitHub\GP3\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\FBX\6D5031A2\F-15C_Eagle.fbm\Body 5_0.xnb
+C:\Users\Administrator\Documents\GitHub\GP3\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\FBX\6D5031A2\F-15C_Eagle.fbm\Body 3_0.xnb
+C:\Users\Administrator\Documents\GitHub\GP3\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\FBX\6D5031A2\F-15C_Eagle.fbm\Body 2_0.xnb
+C:\Users\Administrator\Documents\GitHub\GP3\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\FBX\6D5031A2\F-15C_Eagle.fbm\Body 1_0.xnb
+C:\Users\Administrator\Documents\GitHub\GP3\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\FBX\AFDA30DF\Missile.fbm\uvmap_0.xnb
+C:\Users\Administrator\Documents\GitHub\GP3\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Audio\Bluebell.wma
+C:\Users\Administrator\Documents\GitHub\GP3\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Audio\DoctorWhotheme11.wma
+C:\Users\Administrator\Documents\GitHub\GP3\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Audio\tardis.wma
+C:\Users\Administrator\Documents\GitHub\GP3\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Audio\gravity.wma
+C:\Users\Administrator\Documents\GitHub\GP3\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.exe
+C:\Users\Administrator\Documents\GitHub\GP3\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.pdb
+C:\Users\Administrator\Documents\GitHub\GP3\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\GP3\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Administrator\Documents\GitHub\GP3\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.exe
+C:\Users\Administrator\Documents\GitHub\GP3\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.pdb

@@ -454,7 +454,7 @@ namespace Game
             //load background
             space = this.Content.Load<Texture2D>("Texture\\spaceBackground");
             gameOver = Content.Load<Texture2D>("Texture\\End");
-            start = Content.Load <Texture2D>("Texture\\Start");
+            start = Content.Load <Texture2D>("Texture\\spaceBackgound");
             // Create a new SpriteBatch, which can be used to draw textures.
             spriteBatch = new SpriteBatch(GraphicsDevice);
             aspectRatio = graphics.GraphicsDevice.Viewport.AspectRatio;
