@@ -1,0 +1,297 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Framework="Microsoft.Xna.Framework" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Audio\Bluebell.mp3</Source>
+      <Name>Audio\Bluebell</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Students\VS2010 Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Audio\Bluebell.xnb</Output>
+      <Extra>C:\Students\VS2010 Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Audio\Bluebell.wma</Extra>
+      <Time>2013-11-19T15:34:46.4327233+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\DoctorWhotheme11.mp3</Source>
+      <Name>Audio\DoctorWhotheme11</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Students\VS2010 Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Audio\DoctorWhotheme11.xnb</Output>
+      <Extra>C:\Students\VS2010 Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Audio\DoctorWhotheme11.wma</Extra>
+      <Time>2013-11-19T15:34:46.4397212+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\tardis.mp3</Source>
+      <Name>Audio\tardis</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Students\VS2010 Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Audio\tardis.xnb</Output>
+      <Extra>C:\Students\VS2010 Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Audio\tardis.wma</Extra>
+      <Time>2013-11-19T15:34:46.453717+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\engine_2.wav</Source>
+      <Name>Audio\engine_2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Students\VS2010 Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Audio\engine_2.xnb</Output>
+      <Time>2013-11-19T15:34:46.44372+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\explosion2.wav</Source>
+      <Name>Audio\explosion2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Students\VS2010 Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Audio\explosion2.xnb</Output>
+      <Time>2013-11-19T15:34:46.4467191+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\shot007.wav</Source>
+      <Name>Audio\shot007</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Students\VS2010 Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Audio\shot007.xnb</Output>
+      <Time>2013-11-19T15:34:46.4497182+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\tardisEdit.wav</Source>
+      <Name>Audio\tardisEdit</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Students\VS2010 Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Audio\tardisEdit.xnb</Output>
+      <Time>2013-11-19T15:34:46.4557164+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\who10Edit.wav</Source>
+      <Name>Audio\who10Edit</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Students\VS2010 Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Audio\who10Edit.xnb</Output>
+      <Time>2013-11-19T15:34:46.463714+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\LaserMap.tga</Source>
+      <Name>Models\LaserMap</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Students\VS2010 Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Models\LaserMap.xnb</Output>
+      <Time>2013-11-19T15:34:46.4987035+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\LaserMap0.tga</Source>
+      <Name>Models\LaserMap0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Students\VS2010 Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Models\LaserMap0.xnb</Output>
+      <Time>2013-11-19T15:34:46.5047017+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\TardisMapR.tga</Source>
+      <Name>Models\TardisMapR</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Students\VS2010 Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Models\TardisMapR.xnb</Output>
+      <Time>2013-11-19T15:34:46.5376918+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\DrWho.spritefont</Source>
+      <Name>Fonts\DrWho</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Students\VS2010 Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Fonts\DrWho.xnb</Output>
+      <Time>2013-11-19T15:37:22.2279707+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\dalek.x</Source>
+      <Name>Models\dalek</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Students\VS2010 Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Models\dalek.xnb</Output>
+      <Time>2013-11-19T15:34:46.4777098+00:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\dalek_0.xml</Key>
+        <Value>2013-11-19T15:38:22.1819791+00:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\laser.fbx</Source>
+      <Name>Models\laser</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Students\VS2010 Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Models\laser.xnb</Output>
+      <Time>2013-11-19T15:34:46.4857074+00:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\laser_0.xml</Key>
+        <Value>2013-11-19T15:38:22.3879173+00:00</Value>
+      </Dependency>
+      <Request>C:\Students\VS2010 Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Models\LaserMap_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\TardisR.fbx</Source>
+      <Name>Models\TardisR</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Students\VS2010 Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Models\TardisR.xnb</Output>
+      <Time>2013-11-19T15:34:46.54369+00:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\TardisR_0.xml</Key>
+        <Value>2013-11-19T15:42:20.6697355+00:00</Value>
+      </Dependency>
+      <Request>C:\Students\VS2010 Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Models\TardisMapR_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\dalek.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\dalek_0.xml</Output>
+      <Time>2013-11-19T15:34:46.4777098+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\laser.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\laser_0.xml</Output>
+      <Time>2013-11-19T15:34:46.4857074+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\LaserMap.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Students\VS2010 Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Models\LaserMap_0.xnb</Output>
+      <Time>2013-11-19T15:34:46.4987035+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\TardisMap.tga</Source>
+      <Name>Models\TardisMap</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Students\VS2010 Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Models\TardisMap.xnb</Output>
+      <Time>2013-11-19T15:34:46.5306939+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\tardis.x</Source>
+      <Name>Models\tardis</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Students\VS2010 Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Models\tardis.xnb</Output>
+      <Time>2013-11-19T15:34:46.5256954+00:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\tardis_1.xml</Key>
+        <Value>2013-11-19T15:41:55.4395193+00:00</Value>
+      </Dependency>
+      <Request>C:\Students\VS2010 Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Models\Tardis_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\tardis.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\tardis_1.xml</Output>
+      <Time>2013-11-19T15:34:46.5256954+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Tardis.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Students\VS2010 Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Models\Tardis_0.xnb</Output>
+      <Time>2013-11-19T15:34:46.5166981+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\TardisR.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\TardisR_0.xml</Output>
+      <Time>2013-11-19T15:34:46.54369+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\TardisMapR.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Students\VS2010 Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Models\TardisMapR_0.xnb</Output>
+      <Time>2013-11-19T15:34:46.5376918+00:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Students\VS2010 Projects\WindowsGame1\WindowsGame1\WindowsGame1Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Students\VS2010 Projects\WindowsGame1\WindowsGame1\WindowsGame1\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Students\VS2010 Projects\WindowsGame1\WindowsGame1\WindowsGame1Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Students\VS2010 Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T11:41:18+00:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T11:41:18+00:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T11:41:18+00:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T11:41:18+00:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T11:41:18+00:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T11:41:18+00:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-09-16T14:31:57.7164426+00:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

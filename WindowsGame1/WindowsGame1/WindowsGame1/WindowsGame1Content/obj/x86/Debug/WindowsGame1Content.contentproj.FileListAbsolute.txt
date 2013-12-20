@@ -1,0 +1,5 @@
+C:\Students\VS2010 Projects\WindowsGame1\WindowsGame1\WindowsGame1Content\obj\x86\Debug\WindowsGame1Content.contentprojResolveAssemblyReference.cache
+C:\Users\Evan\Desktop\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1Content\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1Content\obj\x86\Debug\WindowsGame1Content.contentprojResolveAssemblyReference.cache
+R:\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1Content\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1Content\obj\x86\Debug\ResolveAssemblyReference.cache
